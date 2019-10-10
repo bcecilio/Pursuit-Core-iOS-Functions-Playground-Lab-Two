@@ -4,7 +4,9 @@ import UIKit
 
 // Write a function named average(of:) that returns the average of an array of Doubles
 
-// Your function here
+func average(nums: Double) -> Double {
+    let averageOfDouble =
+}
 
 let testCasesOne: [([Double], Double)] = [
     (input: [1,2,3,4,5], expectedOutput: 3),
